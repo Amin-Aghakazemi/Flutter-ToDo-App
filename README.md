@@ -3,7 +3,6 @@
 ## Introduction
 
 Welcome to the Flutter ToDo App repository.
-
 Here, you'll find a complete Flutter application for multiple platforms, developed by [Amin Aghakazemi](https://aminakazemi.info).
 
 <p></p>
