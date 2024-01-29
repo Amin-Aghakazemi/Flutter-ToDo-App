@@ -1,19 +1,22 @@
 # Flutter-ToDo-App
 
 ## Introduction
-This repository include the source code of a complete flutter application ready for all platforms developed by [Amin Aghakazemi](https://aminakazemi.info).
+
+Welcome to the Flutter ToDo App repository, a complete Flutter application for multiple platforms, developed by [Amin Aghakazemi](https://aminakazemi.info).
 
 <p align="center">
-  <a href="#">
-    <img src="Image1.png" height="300px">
-  </a>
+  <img src="Image1.png" height="300px" alt="App Screenshot">
 </p>
 
 ## Installation
-After downloading this repository, you can simply extract the zip file (todo_app.zip) and then open the project in your desierd code editor like Android Studio. 
-Then you can easily build any version of it for Android, Web, Windows, etc.
+
+To get started with the app, follow these simple steps:
+
+1. Download the repository as a ZIP file.
+2. Extract the ZIP file (todo_app.zip).
+3. Open the project in your preferred code editor, such as Android Studio.
+4. Build the app for your desired platform(s) like Android, Web, or Windows.
 
 ## License
->You can check out the full license [here](https://github.com/Amin-Aghakazemi/Flutter-ToDo-App/blob/main/LICENSE)
 
-This project is licensed under the terms of the **MIT** license.
+This project is licensed under the **MIT License**. For more details, please see the [LICENSE](https://github.com/Amin-Aghakazemi/Flutter-ToDo-App/blob/main/LICENSE) file.
