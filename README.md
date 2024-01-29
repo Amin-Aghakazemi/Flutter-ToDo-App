@@ -7,7 +7,7 @@ Here, you'll find a complete Flutter application for multiple platforms, develop
 
 
 <p align="center">
-  <img src="Image1.png" height="300px" alt="App Screenshot">
+  <img src="Image1.png" height="500px" alt="App Screenshot">
 </p>
 
 
